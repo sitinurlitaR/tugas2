@@ -9,7 +9,7 @@ Nim  : 2015150088
 Kls  : 03
 <br><br>
 QR CODE APP:
-<br><br><img src="ssbrcode.png">
+<br><br><img src="ssbrcode.PNG">
 <br><br>
 Screenshot App<br>
-<img height="50%"  width="50%" src="ssapp.png">
+<img height="50%"  width="50%" src="ssapp.PNG">
